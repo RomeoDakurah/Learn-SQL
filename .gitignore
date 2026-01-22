@@ -1,0 +1,6 @@
+# Ignore local SQLite database
+*.db
+
+# Ignore logs, temp files, macOS metadata
+*.log
+*.DS_Store
