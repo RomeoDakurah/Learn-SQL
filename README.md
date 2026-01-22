@@ -36,7 +36,7 @@ It includes tables for product categories, products, and inventory, along with q
 
 1. Open SQLite in terminal:
 
-```bash
+bash
 sqlite3 inventory.db
 
 2. Enable foreign keys:
